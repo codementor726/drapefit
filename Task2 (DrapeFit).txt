@@ -1,0 +1,12 @@
+- AWS root user login
+technology@drapefit.com / Kolkata@#2
+
+-Repo Link
+https://github.com/miracle1125/df-client
+
+- Requirements
+There are totally 66 issues but first 10 issues has been finished already.
+
+By Today: Need to setup ci/cd on AWS and running code.
+By next Monday: 11 ~ 30
+By next Friday: 31 ~ 66
